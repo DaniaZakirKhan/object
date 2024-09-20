@@ -27,3 +27,24 @@ var itemsArray = [
      country : "Pakistan"
      }
 
+
+     //3
+     function Student(name,age,grade){
+      this.name=name;
+      this.age=age;
+      
+
+      
+     }
+
+
+     var func1=new Student("Dania", "19"
+      console.log(func1)
+     )
+
+     //4
+
+     function record(name,age){
+      this.name=name;
+      this.age=age
+     }
